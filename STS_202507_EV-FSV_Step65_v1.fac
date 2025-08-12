@@ -1,0 +1,35 @@
+Dummy title
+!2,VariableName,-1,Base_RealWorld,s3_d1_RealWorld,s7_RealWorld,s10_enp_RealWorld,s12_shock_RealWorld,s14_RealWorld,s15_RealWorld,s16_RealWorld,s21_u1_RealWorld,s8_RealWorld,s20_RealWorld
+*,"description","description","Real_world","Real_world","Real_world","Real_world","Real_world","Real_world","Real_world","Real_world","Real_world","Real_world","Real_world"
+*,"SC_YEAR_TYPE","Calendar or Company","Calendar","Calendar","Calendar","Calendar","Calendar","Calendar","Calendar","Calendar","Calendar","Calendar","Calendar"
+*,"SC_TABLE_TYP","Generic (fac) or Stochastic (fas)","fac","fac","fac","fac","fac","fac","fac","fac","fac","fac","fac"
+*,"SC_START_DAT","First date in Scenario table",202412,202412,202412,202412,202412,202412,202412,202412,202412,202412,202412
+*,"SC_MAX_YEAR","Last year in Scenario table",2145,2145,2145,2145,2145,2145,2145,2145,2145,2145,2145
+*,"SC_INIT_MTH","First Month in Scenario Table",12,12,12,12,12,12,12,12,12,12,12
+*,"SC_DEFL_INCL","Is the deflator included in Scen Tab",0,0,0,0,0,0,0,0,0,0,0
+*,"SC_DATA_FREQ","Data frequency of Scenario table",12,12,12,12,12,12,12,12,12,12,12
+*,"SC_RETN_FREQ","Convertible frequency of returns",1,1,1,1,1,1,1,1,1,1,1
+*,"ECONOMY","Index in Scenario table","ZAR","ZAR","ZAR","ZAR","ZAR","ZAR","ZAR","ZAR","ZAR","ZAR","ZAR"
+*,"SC_BY_CV_FRQ","Convertibility freq of bond yields",12,12,12,12,12,12,12,12,12,12,12
+*,"SC_MN_YLD_OT","Minimum o/s term for Fixed",0,0,0,0,0,0,0,0,0,0,0
+*,"SC_MX_YLD_OT","Max o/s term for Fixed",120,120,120,120,120,120,120,120,120,120,120
+*,"SC_RATES_TYP","Spot / Par",1,1,1,1,1,1,1,1,1,1,1
+*,"SYC_RET_SPLIT_RSA","Name of Retrn split table for RSA","syc_ret_split_rsa_202507_v1","syc_ret_split_rsa_202507_v1","syc_ret_split_rsa_202507_v1","syc_ret_split_rsa_202507_v1","syc_ret_split_rsa_202507_v1","syc_ret_split_rsa_202507_v1","syc_ret_split_rsa_202507_v1","syc_ret_split_rsa_202507_v1","syc_ret_split_rsa_202507_v1","syc_ret_split_rsa_202507_v1","syc_ret_split_rsa_202507_v1"
+*,"SYC_RET_SPLIT_NAM","Name of Retrn split table for NAM","syc_ret_split_nam_202507_v1","syc_ret_split_nam_202507_v1","syc_ret_split_nam_202507_v1","syc_ret_split_nam_202507_v1","syc_ret_split_nam_202507_v1","syc_ret_split_nam_202507_v1","syc_ret_split_nam_202507_v1","syc_ret_split_nam_202507_v1","syc_ret_split_nam_202507_v1","syc_ret_split_nam_202507_v1","syc_ret_split_nam_202507_v1"
+*,"SYC_RET_SPLIT_BER","Name of Retrn split table for BER","syc_ret_split_ber_202507_v1","syc_ret_split_ber_202507_v1","syc_ret_split_ber_202507_v1","syc_ret_split_ber_202507_v1","syc_ret_split_ber_202507_v1","syc_ret_split_ber_202507_v1","syc_ret_split_ber_202507_v1","syc_ret_split_ber_202507_v1","syc_ret_split_ber_202507_v1","syc_ret_split_ber_202507_v1","syc_ret_split_ber_202507_v1"
+*,"EC_SCEN_TAB","Name of Scenario table","SYC_202507_EV-FSV_Step65_v1","SYC_202507_EV-FSV_Step115_v1","SYC_202507_EV-FSV_Step65_v1","SYC_202507_EV-FSV_Step140_v1","SYC_202507_EV-FSV_Step150_v1","SYC_202507_EV-FSV_Step101_v1","SYC_202507_EV-FSV_Step102_v1","SYC_202507_EV-FSV_Step116_v1","SYC_202507_EV-FSV_Step114_v1","SYC_202507_EV-FSV_Step65_v1","SYC_202507_EV-FSV_Step65_v1"
+*,"EC_SCEN_TAB_CS","Name of Scenario table: Central Stochastic","placeholder","placeholder","placeholder","placeholder","placeholder","placeholder","placeholder","placeholder","placeholder","placeholder","placeholder"
+*,"EC_SCEN_TAB_SS","Name of Scenario table: Stochastic Stochastic","placeholder","placeholder","placeholder","placeholder","placeholder","placeholder","placeholder","placeholder","placeholder","placeholder","placeholder"
+*,"EC_ULBON_TAB","Name of ULBon table","placeholder","placeholder","placeholder","placeholder","placeholder","placeholder","placeholder","placeholder","placeholder","placeholder","placeholder"
+*,"STOCH_SEL","Stochastic (1) or Not (0)",0,0,0,0,0,0,0,0,0,0,0
+*,"SCENARIO","Index in Scenario table",1,1,1,1,1,1,1,1,1,1,1
+*,"SYC_CPI_YOY_PC","Inflation rate used to calculate historic premiums",6.4,6.4,6.4,6.4,6.4,6.4,6.4,6.4,6.4,6.4,6.4
+*,"SYC_DIMENSION","number of items in SYC_RET_SPLIT table",175,175,175,175,175,175,175,175,175,175,175
+*,"SYC_ASSET_MIX_TABLE","Name of Asset Mix Table","asset_mix_202507_EV-FSV_Step65_v1","asset_mix_202507_EV-FSV_Step115_v1","asset_mix_202507_EV-FSV_Step65_v1","asset_mix_202507_EV-FSV_Step140_v1","asset_mix_202507_EV-FSV_Step150_v1","asset_mix_202507_EV-FSV_Step101_v1","asset_mix_202507_EV-FSV_Step102_v1","asset_mix_202507_EV-FSV_Step116_v1","asset_mix_202507_EV-FSV_Step114_v1","asset_mix_202507_EV-FSV_Step65_v1","asset_mix_202507_EV-FSV_Step65_v1"
+*,"SYC_AC_SPLIT","GP_ANTY: Name of Asset Class split table","SYC_AC_Split_v12","SYC_AC_Split_v12","SYC_AC_Split_v12","SYC_AC_Split_v12","SYC_AC_Split_v12","SYC_AC_Split_v12","SYC_AC_Split_v12","SYC_AC_Split_v12","SYC_AC_Split_v12","SYC_AC_Split_v12","SYC_AC_Split_v12"
+*,"SYC_AC_PROP_TABLE","GP_ANTY: Name of Asset Class Proportion table","SYC_AC_Prop_v1","SYC_AC_Prop_v1","SYC_AC_Prop_v1","SYC_AC_Prop_v1","SYC_AC_Prop_v1","SYC_AC_Prop_v1","SYC_AC_Prop_v1","SYC_AC_Prop_v1","SYC_AC_Prop_v1","SYC_AC_Prop_v1","SYC_AC_Prop_v1"
+*,"SYC_GF_TABLE","Name of Generic Financial table","xxx","xxx","xxx","xxx","xxx","xxx","xxx","xxx","xxx","xxx","xxx"
+*,"SYC_RSA_BOND","GP_ANTY: Name of RSA Bond SYC Table","SYC_202507vJuly25_RSAbond_s65_v1","SYC_202507vJuly25_RSAbond_Sens3_v1","SYC_202507vJuly25_RSAbond_s65_v1","SYC_202507vJuly25_RSAbond_s65_v1","SYC_202507vJuly25_RSAbond_Sens12_v1","SYC_202507vJuly25_RSAbond_Sens14_v1","SYC_202507vJuly25_RSAbond_Sens15_v1","SYC_202507vJuly25_RSAbond_Sens16_v1","SYC_202507vJuly25_RSAbond_Sens21_v1","SYC_202507vJuly25_RSAbond_s65_v1","SYC_202507vJuly25_RSAbond_s65_v1"
+*,"SYC_RSA_SWAP","GP_ANTY: Name of RSA Swap SYC Table","xxx","xxx","xxx","xxx","xxx","xxx","xxx","xxx","xxx","xxx","xxx"
+*,"SYC_NAM_BOND","GP_ANTY: Name of NAM Bond SYC Table","SYC_202507vJuly25_Namibia_s65_v1","SYC_202507vJuly25_Namibia_Sens3_v1","SYC_202507vJuly25_Namibia_s65_v1","SYC_202507vJuly25_Namibia_s65_v1","SYC_202507vJuly25_Namibia_Sens12_v1","SYC_202507vJuly25_Namibia_Sens14_v1","SYC_202507vJuly25_Namibia_Sens15_v1","SYC_202507vJuly25_Namibia_Sens16_v1","SYC_202507vJuly25_Namibia_Sens21_v1","SYC_202507vJuly25_Namibia_s65_v1","SYC_202507vJuly25_Namibia_s65_v1"
+*,"SYC_WPA","Name of WPA SYC Table","SYC_202507_EV-FSV_WPA_Step65_v1","SYC_202507_EV-FSV_WPA_Step115_v1","SYC_202507_EV-FSV_WPA_Step65_v1","SYC_202507_EV-FSV_WPA_Step140_v1","SYC_202507_EV-FSV_WPA_Step150_v1","SYC_202507_EV-FSV_WPA_Step101_v1","SYC_202507_EV-FSV_WPA_Step102_v1","SYC_202507_EV-FSV_WPA_Step116_v1","SYC_202507_EV-FSV_WPA_Step114_v1","SYC_202507_EV-FSV_WPA_Step65_v1","SYC_202507_EV-FSV_WPA_Step65_v1"
